@@ -30,7 +30,8 @@ colors: {
 
   screens:{
       'tablet':'700px',
-      'desktop':'1440px'
+      'desktop':'1440px',
+     
   },
   },
 plugins: [],

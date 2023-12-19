@@ -1,5 +1,5 @@
 
-export default function Image({order, imgMobile, imgDesktop}){
+export default function Image({order="", imgMobile, imgDesktop}){
     return(
        <picture className={order}>
         <source media="(max-width:639px)" srcSet={imgMobile} />
