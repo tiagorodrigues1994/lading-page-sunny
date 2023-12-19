@@ -6,7 +6,7 @@ import eggeImageMobile from '../assets/mobile/image-transform.jpg'
 import eggeImageDesktop from '../assets/Desktop/image-transform.jpg'
 import glassImgMobile from '../assets/mobile/image-stand-out.jpg'
 import glassImgDesktop from '../assets/desktop/image-stand-out.jpg'
-// import glassImgDesktop from '../assets/Desktop/image-stand-out.jpg'
+
 import graphicDesingMobile from '../assets/mobile/image-graphic-design.jpg'
 import graphicDesingDesktop from '../assets/Desktop/image-graphic-design.jpg'
 import photograhyMobile from '../assets/mobile/image-photography.jpg'
